@@ -9,7 +9,7 @@ This project we will consolidate:
 - Documentation - MD files
 
 Well use best practices including:
-- DRY
+- DRY: Do not repeat yourself
 - Separation of concern(later)
 - return not print
 
